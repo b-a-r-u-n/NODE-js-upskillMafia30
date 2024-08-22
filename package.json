@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "init": "^0.1.2",
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
