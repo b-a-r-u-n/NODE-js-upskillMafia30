@@ -35,6 +35,3 @@
   - `/contact` serves `Contact.html`
   - Any other URL serves `Error.html` with a `404` status code.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
